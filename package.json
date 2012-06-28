@@ -14,7 +14,7 @@
   "dependencies": {
     "pkginfo": "0.2.x",
     "passport": "~0.1.1",
-    "oauth": "0.9.x"
+    "oauth": "git://github.com/ozten/node-oauth.git"
   },
   "devDependencies": {
     "vows": "0.6.x"
